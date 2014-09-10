@@ -15,3 +15,5 @@ Windows
 
 [https://www.apachefriends.org](https://www.apachefriends.org)
 
+[Portable xampp](http://portableapps.com/apps/development/xampp)
+
