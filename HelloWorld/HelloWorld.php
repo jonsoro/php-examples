@@ -3,6 +3,6 @@
     <title>HelloWorld</title>
 </head>
 <body>
-<?php echo '<p>Hello World 2!</p>' ?>
+<?php echo '<p>Hello World 3!</p>' ?>
 </body>
 </html>
